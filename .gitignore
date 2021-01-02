@@ -1,0 +1,5 @@
+imp.txt
+__pycache__
+*.ui
+.idea
+*.db
